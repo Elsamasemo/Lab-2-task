@@ -1,0 +1,55 @@
+.firstt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    background-color: black;
+    color:white;
+}
+    .firstt h1 {
+        margin-bottom: 0;
+    }
+
+    .firstt h4 {
+        margin-top: 7px;
+    }
+.secondd {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.secondd h1 {
+    margin-bottom: 0;
+}
+
+.secondd h4 {
+    margin-top: 7px;
+}
+
+.thirdd {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fourthh {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.projects {
+    display: flex;
+    gap: 25px;
+}
+    .projects > div {
+        border: 2px solid black;
+        padding: 20px;
+        border-radius: 8px;
+    }
+.nav {
+    display: flex;
+    gap: 40px;
+}
